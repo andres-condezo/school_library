@@ -1,5 +1,4 @@
-![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+| ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)      |  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) |
 
 # School Library
 
@@ -37,9 +36,7 @@ $ `cd school_library`
 
 ## Authors
 
-👤 **Andres Condezo**
-
-| &nbsp;       | &nbsp;                                               |
+|    👤    | **Andres Condezo**                                               |
 | ------------ | ---------------------------------------------------- |
 | **GitHub**   | [@Andres Condezo](https://github.com/andres-condezo)         |
 | **Twitter**  | [@andres_condezo](https://twitter.com/andres_condezo)        |
