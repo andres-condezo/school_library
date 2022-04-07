@@ -18,8 +18,6 @@ class Person
   private
 
   def of_age?
-    # I renamed the method name to fix the following offense:
-    # Naming/PredicateName: Rename is_of_age? to of_age?.
     @age >= 18
   end
 end
