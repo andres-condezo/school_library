@@ -1,4 +1,5 @@
 | ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)      |  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) |
+| ------------ | ---------------------------------------------------- |
 
 # School Library
 
